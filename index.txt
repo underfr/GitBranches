@@ -1,1 +1,2 @@
 Bienvenue sur la branche principale
+Ajout d'une nouvelle fonctionnalité
